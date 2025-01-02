@@ -47,9 +47,6 @@ npm start
 ## Contributing
 Feel free to open an issue or submit a pull request to help improve this collaborative editor.
 
-## License
-This project is provided under an open license (if you have chosen one). If not, remove or modify this section.
-
 ---
 
 Enjoy collaborating in real-time! If you have any questions or issues, open a GitHub issue in the repository.
